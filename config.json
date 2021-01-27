@@ -1,0 +1,4 @@
+{
+"prefix": "H!",
+"token": "process.env.TOKEN"
+}
